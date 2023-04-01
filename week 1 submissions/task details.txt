@@ -1,0 +1,3 @@
+Pull this repository.
+Make a folder with your name in this directory and add your work there.
+Open a pull request so that your submissions can be added into the main repository.
