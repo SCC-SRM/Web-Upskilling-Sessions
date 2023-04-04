@@ -1,0 +1,22 @@
+/* Global styles come from external css https://codepen.io/GreenSock/pen/gOWxmWG.css*/
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+button {
+	text-transform: none;
+	margin: 0.25rem;
+}
+
+.nav.light {
+	padding-top: 2rem;
+	background-color: transparent;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
