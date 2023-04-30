@@ -1,0 +1,9 @@
+
+Those who attended the session- Here's your task-
+
+Use a new Fungible token and mint 20 Tokens of a cryptocurrency with name- "SCCSRM" and symbol - {your name}.
+
+Also attach a screenshot of your metamask after adding it to your wallet. 
+
+Additionally, feel free to use any other wallet if you want to explore more. 
+
